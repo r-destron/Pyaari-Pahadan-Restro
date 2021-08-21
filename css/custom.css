@@ -391,7 +391,7 @@ header .caption {
 
 /* Second Secition */
 /* Classic */
-.classic{background: url(../images/classic_bg.jpg)no-repeat;background-size: 100% 100%;margin-top:25px;height:360px;position:relative;overflow:hidden;}
+.classic{background: url(../images/buntikki.jpg)no-repeat;background-size: 100% 100%;margin-top:25px;height:360px;position:relative;overflow:hidden;}
 .classic_btn {
     background: #dc9e15 none repeat scroll 0 0;
     color: #fff;
@@ -1076,7 +1076,6 @@ address,.subscribe > p {
         line-height: 20px;
         margin: 15px 0 0;
     }
-
     #lock > h2 {
         font-size: 20px;
         line-height: 30px;
