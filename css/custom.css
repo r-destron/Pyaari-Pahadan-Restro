@@ -582,13 +582,13 @@ header .caption {
 
 /* Third Secition */
 /* Carousel */
-#carousel {
+#mcarousel {
     margin-top: 30px;
 }
-#carousel .carousel-inner > .item > a > img, #carousel .carousel-inner > .item > img{
+#mcarousel .carousel-inner > .item > a > img, #mcarousel .carousel-inner > .item > img{
     height: 600px;
 }
-#carousel .carousel-caption {
+#mcarousel .carousel-caption {
     background: rgba(0, 0, 0, 0.35) none repeat scroll 0 0;
     bottom: 62px;
     left: 64px;
@@ -596,38 +596,38 @@ header .caption {
     top: 60px;
     width: 450px;
 }
-#carousel .carousel-caption > h2 {
+#mcarousel .carousel-caption > h2 {
     font-size: 55px;
     line-height: 70px;
     text-align:left;
     letter-spacing: 0.1px;
 }
-#carousel .carousel-caption > h3 {
+#mcarousel .carousel-caption > h3 {
     font-size: 39px;
     text-align:left;
 }
-#carousel .carousel-caption > p {
+#mcarousel .carousel-caption > p {
     font-size: 18px;
     line-height: 26px;
     margin-right: 40px;
     margin-top: 28px;
     text-align: left;
 }
-#carousel .carousel-caption > .info_btn_shadow {
+#mcarousel .carousel-caption > .info_btn_shadow {
     margin-top: 65px;
     margin-left:8px;
 }
-#carousel .carousel-indicators {
+#mcarousel .carousel-indicators {
     bottom: 2px;
 }
-#carousel .carousel-indicators > li {
+#mcarousel .carousel-indicators > li {
     width: 15px;
     height: 15px;
     background: rgba(255, 255, 255, 0.45);
     border: 0;
     margin: 0 8px;
 }
-#carousel .carousel-indicators > li.active {
+#mcarousel .carousel-indicators > li.active {
     background: #d14149;
 }
 
@@ -663,7 +663,7 @@ header .caption {
 }
 /* Lock */
 #lock{
-    background: url(../images/pahad4.jpg)no-repeat;
+    background: url(../images/pahad6.jpg)no-repeat;
     background-size: 100% 100%;
     margin-top: 40px;
     min-height: 185px;
